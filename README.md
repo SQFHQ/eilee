@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html lang="es">
 
@@ -224,7 +224,7 @@
 
             <h6 style="color: white;">copyright © stalin.qf</h6>
 
-</div>
+
 
 	<script>
 
